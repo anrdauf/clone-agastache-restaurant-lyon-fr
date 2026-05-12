@@ -1,0 +1,67 @@
+{
+  "url": "https://agastache-restaurant-lyon.fr",
+  "clonedAt": "2026-05-12T16:18:54.007Z",
+  "pages": [
+    {
+      "pathname": "/7925-2/",
+      "file": "7925-2.html"
+    },
+    {
+      "pathname": "/ouverture-reservations-pour-le-reveillon-du-jour-de-lan/",
+      "file": "ouverture-reservations-pour-le-reveillon-du-jour-de-lan.html"
+    },
+    {
+      "pathname": "/bonne-annee-2023/",
+      "file": "bonne-annee-2023.html"
+    },
+    {
+      "pathname": "/fermeture-vendredi-9-et-lundi-12-octobre/",
+      "file": "fermeture-vendredi-9-et-lundi-12-octobre.html"
+    },
+    {
+      "pathname": "/mentions-legales/",
+      "file": "mentions-legales.html"
+    },
+    {
+      "pathname": "/nouveau-plat-a-decouvrir-le-soir/",
+      "file": "nouveau-plat-a-decouvrir-le-soir.html"
+    },
+    {
+      "pathname": "/reservations/",
+      "file": "reservations.html"
+    },
+    {
+      "pathname": "/formulaire-client/",
+      "file": "formulaire-client.html"
+    },
+    {
+      "pathname": "/mentions-legales",
+      "file": "mentions-legales.html"
+    },
+    {
+      "pathname": "/category/actualite/",
+      "file": "category-actualite.html"
+    },
+    {
+      "pathname": "/reservations-2/",
+      "file": "reservations-2.html"
+    },
+    {
+      "pathname": "/compte-client/",
+      "file": "compte-client.html"
+    },
+    {
+      "pathname": "/restaurant/agastache/",
+      "file": "restaurant-agastache.html"
+    },
+    {
+      "pathname": "/reservations",
+      "file": "reservations.html"
+    },
+    {
+      "pathname": "/",
+      "file": "index.html"
+    }
+  ],
+  "errors": []
+}
